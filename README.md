@@ -1,3 +1,34 @@
+# AI + RN Notes Assistant
+
+✅ **Day 1 setup complete**
+
+This project is the starting point of my learning journey combining **React Native**, **AI (LLMs)**, and **cloud integration**.
+
+---
+
+## 📌 What this project will become
+
+An experimental **mobile assistant app** that helps with:
+
+- Taking notes
+- Injecting context into prompts
+- Using AI features inside a React Native app
+
+The goal is to practice:
+
+- Building with **React Native (Expo)**
+- Connecting to **LLMs** with different prompting techniques
+- Integrating with **cloud services** (Azure, APIs, etc.)
+- Experimenting with **Retrieval-Augmented Generation (RAG)**
+
+---
+
+## 🚀 Current Status
+
+- Project scaffolded with **Expo CLI**
+- App runs on both simulator & physical device
+- Repo initialized & ready for feature development
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
